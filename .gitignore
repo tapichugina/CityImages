@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtualenvs
+.venv/
+.env/
+*.env
+
+# Poetry
+poetry.lock
+
+# Editor
+.vscode/
+.idea/
