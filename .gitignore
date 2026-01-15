@@ -16,3 +16,8 @@ poetry.lock
 # Editor
 .vscode/
 .idea/
+
+
+# My comments file
+comments.txt
+config.env
